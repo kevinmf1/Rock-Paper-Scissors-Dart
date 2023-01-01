@@ -4,7 +4,7 @@ This Game has two mode, VS Bot and VS Player
 
 Menu in Game :
 
-![Alt text](https://i.ibb.co/nkNKppz/Screenshot-1355.png "Optional title")
+![Alt text](https://i.ibb.co/PWvRbPj/Capture.png "CLI Run Image")
 
 
 This game uses two dart libraries which is dart:math and dart:io
